@@ -1,3 +1,10 @@
+GIF Recorriendo la APP:
+![image](https://github.com/Taromesa/ReactJS-PreEntrega2-Mesa/assets/114371550/3e9d7935-01d5-4dcd-8c92-74846ede5e47)
+![Cocinas](https://github.com/Taromesa/ReactJS-PreEntrega2-Mesa/assets/114371550/a883d61f-0786-4b2f-b990-7db51e79b4de)
+![Ventilador añadido al carrito](https://github.com/Taromesa/ReactJS-PreEntrega2-Mesa/assets/114371550/3901a4fa-f2ea-4d6d-96e2-649991c80914)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
